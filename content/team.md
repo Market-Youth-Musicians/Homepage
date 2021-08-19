@@ -13,7 +13,7 @@ Hello! My name is Judy Liu and I am currently a junior at Basis Independent Sili
 #### Executive Vice President - Anthony Wang
 Hi! My name is Anthony, and I'm a sophomore at Monta Vista High school. I play piano and violin, and currently play in the San Francisco Youth Symphony. Performing in front of people is definitely a nerve-wracking experience at first, but it can feel extremely rewarding, and I want to bring this experience to other musicians as well, and to have fun together performing!
 
-![Erica](/images/)
+![Erica](/images/erica.png)
 #### Vice President Designer - Erica Liu
 Hi! My name is Erica and I'm a current sophomore at Monta Vista High School. I play the violin and I am the assistant concertmaster of the California Youth Symphony. I will also be a 2021 NYO2 violinist. Many years ago, I would always marvel at the Farmers Market performers and the music made shopping much more enjoyable. I think MYM is a great way to develop confidence and performance skills, while sharing music with the community.
 

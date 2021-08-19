@@ -1,5 +1,5 @@
 # default config
-baseurl = "https://MarketYouthMusicians.github.io"
+baseurl = ""
 languageCode = "en-us"
 title = "Market Youth Musicians"
 theme = "parsa-hugo"
