@@ -47,46 +47,40 @@ link = "/plugins/search/search.js"
 # navigation
 [[menu.main]]
 name = "Home"
-url = ""
+url = "/"
 weight = 1
-hasChildren = true
-
-  [[menu.main]]
-  parent = "Home"
-  name = "Home 1"
-  url = "homepage/home-1"
-
-  [[menu.main]]
-  parent = "Home"
-  name = "Home 2"
-  url = "homepage/home-2"
 
 [[menu.main]]
 name = "About"
-url = "about"
+url = "/about"
 weight = 2
 
 [[menu.main]]
 name = "Events"
-url = "events"
+url = "/events"
 weight = 4
 
 [[menu.main]]
 name = "Team"
-url = "team"
+url = "/team"
 weight = 4
 
 [[menu.main]]
-name = "Contact"
-url = "contact"
+name = "Records"
+url = "/records"
 weight = 5
+
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 6
 
 # deult parameter
 [params]
 logo = "/images/logo.png"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
-layout = "1"
+layout = "3"
 # Meta data
 description = "Welcome to Market Youth Musicians"
 # Preloader
@@ -95,7 +89,7 @@ preloader = true
 search = true
 # about author
 author = "Market Youth Musicians"
-author_image = "images/banner-img.png"
+author_image = "images/logo_large.png"
 bio = "Our mission is to bring classical music to everyday life.  Through music, we raise funds for charities around the world and bring together a community of passionate youth musicians."
 # Contact info
 mobile = ""
@@ -126,6 +120,14 @@ link = "https://www.instagram.com/marketyouthmusicians/"
 icon = "ti-youtube"
 link = "https://www.youtube.com/channel/UC5ghA6EoPT0KaDYoqwjmsfQ"
 
+[[params.social]]
+icon = "ti-email"
+link = "mailto:marketyouthmusiciansmym@gmail.com"
+
+[[params.social]]
+icon = "ti-money"
+link = "https://www.paypal.com/paypalme/marketyouthmusicians?locale.x=en_US"
+
 #[[params.social]]
 #icon = "ti-facebook"
 #link = "#"
@@ -137,6 +139,9 @@ link = "https://www.youtube.com/channel/UC5ghA6EoPT0KaDYoqwjmsfQ"
 #[[params.social]]
 #icon = "ti-linkedin"
 #link = "#"
+[[params.social]]
+icon = "ti-agenda"
+link = "https://drive.google.com/drive/folders/1fBW806WBqgFaDXKA31m454S9UFwJxZ8u"
 
 [[params.social]]
 icon = "ti-github"
