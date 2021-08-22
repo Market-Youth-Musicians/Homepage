@@ -15,7 +15,7 @@ image: ""
 
 **When:** Sunday, July 25, 2021, 9am-1pm
 
-**Who:** Amie Wu (guzheng), Anthony Wang(violin/piano), Ethan Yu(violin/piano), Irene Wang(flute/piano), Judy Liu (harp); please contact us if you are interested in performing!
+**Who:** Amie Wu (guzheng), Anthony Wang (violin/piano), Ethan Yu (violin/piano), Irene Wang (flute/piano), Judy Liu (harp);
 
 **Why:** fundraising for the California Fire Foundation
 
@@ -27,7 +27,9 @@ image: ""
 
 **When:** Saturday, August 21, 2021, 9am-1pm
 
-**Who:** please contact us if you are interested in performing!
+**Who:** Anirudh Margasahayam (guitar), Anthony Wang (violin/piano), Irene Wang (flute/piano), Judy Liu (harp), Michelle Liu (violin);
+
+**Why:** fundraising for United Nations Children’s Fund (UNICEF): Afghanistan Initiative
 
 -------------------------
 #### October 3, 2021

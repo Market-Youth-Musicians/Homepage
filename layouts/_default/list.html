@@ -79,6 +79,19 @@
           </div>
           {{ end }}
         </div>
+        {{ else }}
+        <div class="row masonry-container">
+          {{ range $paginator.Pages }}
+          <div class="col-sm-6 mb-5">
+            <article class="text-center">
+              <img class="img-fluid mb-4" src="{{.Params.Image | absURL }}" alt="post-thumb">
+              <h4 class="title-border"><a class="text-dark" href="{{.Permalink}}">{{.Title}}</a></h4>
+              <p>{{ .Summary }}</p>
+              <a href="{{.Permalink}}" class="btn btn-transparent">read more</a>
+            </article>
+          </div>
+          {{ end }}
+        </div>
         {{ end }}
         <!-- pagination -->
         <div class="row">
