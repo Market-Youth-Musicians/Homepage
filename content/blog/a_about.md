@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Us"
 date: 2019-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "featured"
@@ -10,6 +10,3 @@ categories:
 tags:
   - ""
 ---
-
-
-[To read more](/about/)
