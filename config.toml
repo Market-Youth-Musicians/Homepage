@@ -66,8 +66,8 @@ url = "/team"
 weight = 4
 
 [[menu.main]]
-name = "Records"
-url = "/records"
+name = "Impact"
+url = "/impact"
 weight = 5
 
 [[menu.main]]
